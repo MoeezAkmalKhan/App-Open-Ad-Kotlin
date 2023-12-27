@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">AppOpenAdKotlin</string>
+    <string name="ADMOB_APP_ID">ca-app-pub-4310594180962367~3900098432</string>
+    <string name="testAppOpenAdId">ca-app-pub-3940256099942544/9257395921</string>
 </resources>
